@@ -75,13 +75,16 @@ branch.
 - Melbourne LAN is connected to the HQ-Melbourne router.
 - Sydney LAN is connected to the B-Sydney router.
 - Canberra LAN is connected to the B-Canberra router.
-- Adelaide LAN is connected to the B-Adelaide router. 
+- Adelaide LAN is connected to the B-Adelaide router.
+
+  <h2>Requirement</h2>
+You need to configure and verify the proposed network in a simulated environment and ensure that
+it is ready for actual implementation. 
+
 
 <h2>Network Diagram</h2>
 
 
-<h2>Tech stack</h2>
-a Quick snapshot
 
 
 <h2>Screenshots</h2>
