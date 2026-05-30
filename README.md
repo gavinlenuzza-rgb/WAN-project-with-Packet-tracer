@@ -50,14 +50,14 @@ connect entire Ethernet LAN
  No wireless setup required at this stage. However, UTP Cat5e or 6 likely to be used to
 connect entire Ethernet LAN
 
-The managing director of the RTO has hired your services to connect Sydney, Canberra and
+-The managing director of the RTO has hired your services to connect Sydney, Canberra and
 Adelaide branches with Melbourne branch and provided you the following project guideline.
-Design Ethernet LAN and Wide Area Networks IP addressing scheme for Sydney,
+-Design Ethernet LAN and Wide Area Networks IP addressing scheme for Sydney,
 Canberra and Adelaide branches.
-Converge each branch LAN with other branches by enabling and configuring routing on
+-Converge each branch LAN with other branches by enabling and configuring routing on
 every router
 
-Before moving to the actual design and implementation phase, the managing director provided you
+-Before moving to the actual design and implementation phase, the managing director provided you
 a simulated design (as shown in Figure 1) of the proposed network which will assist you in
 understanding the entire network topology. 
 
